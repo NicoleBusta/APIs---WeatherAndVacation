@@ -10,21 +10,36 @@ Part I - WeatherPy
 Create a Python script to visualize the weather of 500+ cities across the world and of varying distances from the equator by using citipy and the OpenWeatherMap API.
 
 Requirement 1: Create a series of scatter plots to showcase the following 
+
 Latitude vs. Temperature
+
 Latitude vs. Humidity
+
 Latitude vs. Cloudiness
+
 Latitude vs. Wind Speed
 
+
 Requirement 2: Compute linear regression for each scatter plot created in Requirement I (separated hemisphere sets)
+
 Northern Hemisphere - Temperature (F) vs. Latitude
+
 Southern Hemisphere - Temperature (F) vs. Latitude
+
 Northern Hemisphere - Humidity (%) vs. Latitude
+
 Southern Hemisphere - Humidity (%) vs. Latitude
+
 Northern Hemisphere - Cloudiness (%) vs. Latitude
+
 Southern Hemisphere - Cloudiness (%) vs. Latitude
+
 Northern Hemisphere - Wind Speed (mph) vs. Latitude
+
 Southern Hemisphere - Wind Speed (mph) vs. Latitude
+
 * Please note, at the end of each pair of plots, an analysis has been included.
+
 
 
 Part II - VacationPy
